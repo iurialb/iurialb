@@ -1,4 +1,12 @@
 ### Oi, meu nome é Iuri 👋
+
+🎓 Graduado em Administração e Ciências Econômicas
+📚 Pós-graduando em Data Science & Analytics
+💻 Conhecimentos em: Microsoft Excel, Power BI, Linguagem R, Modelagem de dados, Econometria, SQL, Python e Pandas
+
+
+#OpenToWork
+
 <!--
 **iurialb/iurialb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
