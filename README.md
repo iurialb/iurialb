@@ -5,6 +5,7 @@
 - 💻 Conhecimentos em: Microsoft Excel, Power BI, Linguagem R, Modelagem de dados, Econometria, SQL e Python.
 
 
+
 #OpenToWork
 
 ### Algumas tecnologias que eu utilizo no meu dia a dia:
