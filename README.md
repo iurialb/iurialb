@@ -4,6 +4,7 @@
 - 📚 Pós-graduando em Data Science & Analytics
 - 💻 Conhecimentos em: Microsoft Excel, Power BI, Linguagem R, Modelagem de dados, SQL e Python.
 
+<hr>
 
 
 ### Algumas tecnologias que eu utilizo no meu dia a dia:
