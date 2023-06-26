@@ -2,11 +2,9 @@
 
 - 🎓 Graduado em Administração e Ciências Econômicas
 - 📚 Pós-graduando em Data Science & Analytics
-- 💻 Conhecimentos em: Microsoft Excel, Power BI, Linguagem R, Modelagem de dados, Econometria, SQL e Python.
+- 💻 Conhecimentos em: Microsoft Excel, Power BI, Linguagem R, Modelagem de dados, SQL e Python.
 
 
-
-#OpenToWork
 
 ### Algumas tecnologias que eu utilizo no meu dia a dia:
 
