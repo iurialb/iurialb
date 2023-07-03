@@ -2,7 +2,7 @@
 
 - 🎓 Graduado em Administração e Ciências Econômicas
 - 📚 Pós-graduando em Data Science & Analytics
-- 💻 Conhecimentos em: Microsoft Excel, Power BI, Linguagem R, Modelagem de dados, SQL e Python.
+- 💻 Conhecimentos em: Microsoft Excel, Power BI, Linguagem R, Modelagem de dados, Machine Learning, SQL e Python.
 
 <hr>
 
