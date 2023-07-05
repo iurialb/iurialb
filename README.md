@@ -19,8 +19,7 @@ Acesse o meu <a href="https://sites.google.com/view/iurialbuquerque/in%C3%ADcio"
     <img align="center" alt= "Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> 
     <img align="center" alt= "Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> 
 <img align="center" alt= "Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> 
-<img align="center" alt= "Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> 
-</div>
+
 
 <hr>
 <!--
