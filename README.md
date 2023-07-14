@@ -6,7 +6,7 @@
 
 <hr>
 
-Acesse o meu <a href="https://sites.google.com/view/iurialbuquerque/in%C3%ADcio">Portfólio de Dashboards no Power BI</a>
+Acesse o meu <a href="https://sites.google.com/view/iurialbuquerque/">Portfólio de Dashboards no Power BI</a>
 
 <hr>
 
