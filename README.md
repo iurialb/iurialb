@@ -1,4 +1,4 @@
-### Oi, o meu nome é Iuri 👋
+Oi, o meu nome é Iuri 👋
 
 - 🎓 Graduado em Administração e Ciências Econômicas;
 - 📚 Pós-graduando em Data Science & Analytics;
