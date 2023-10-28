@@ -1,5 +1,7 @@
 Oi, o meu nome é Iuri 👋
 
+<hr>
+
 - 🎓 Graduado em Administração e Ciências Econômicas;
 - 📚 Pós-graduando em Data Science & Analytics;
 - 💻 Conhecimentos em: Microsoft Excel, Power BI, Linguagem R, Modelagem de dados, Machine Learning, SQL e Python.
