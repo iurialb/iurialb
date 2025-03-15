@@ -1,28 +1,32 @@
-Oi, o meu nome é Iuri 👋
+<h2>Olá, eu sou o Iuri! 👋</h2>
 
 <hr>
 
-- 🎓 Graduado em Administração e Ciências Econômicas;
-- 📚 Pós-graduando em Data Science & Analytics;
-- 💻 Conhecimentos em: Microsoft Excel, Power BI, Linguagem R, Modelagem de dados, Machine Learning, SQL e Python.
+<ul>
+    <li>🎓 Graduado em Administração e Ciências Econômicas</li>
+    <li>📚 Pós-Graduado em Data Science & Analytics</li>
+    <li>💻 Experiência em análise de dados, modelagem, machine learning e visualização</li>
+</ul>
 
 <hr>
 
-Confira o meu <a href="https://sites.google.com/view/iurialbuquerque/">Portfólio de Dashboards no Power BI</a>
+<p>Confira o meu <a href="https://sites.google.com/view/iurialbuquerque/" target="_blank">Portfólio de Dashboards no Power BI</a></p>
 
 <hr>
 
-### Algumas tecnologias que eu utilizo no meu dia a dia:
+<h3>Algumas tecnologias que utilizo no dia a dia:</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt= "R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img align="center" alt= "PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-    <img align="center" alt= "Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> 
-    <img align="center" alt= "Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/> 
-<img align="center" alt= "Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> 
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+</div>
 
 <hr>
-<!--
-**iurialb/iurialb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
