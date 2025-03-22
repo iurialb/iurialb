@@ -1,20 +1,21 @@
-<h2>Olá, eu sou o Iuri! 👋</h2>
+<h2>Hi, I'm Iuri! 👋</h2>
 
 <hr>
 
 <ul>
-    <li>🎓 Graduado em Administração e Ciências Econômicas</li>
-    <li>📚 Pós-Graduado em Data Science & Analytics</li>
-    <li>💻 Experiência em análise de dados, modelagem, machine learning e visualização</li>
+    <li>💻 Data Analysis & Engineering</li>
+    <li>🎓 Bachelor's in Business Administration & Economics</li>
+    <li>📚 Postgraduate in Data Science & Analytics</li>
+    <!-- <li>💻 Experiência em análise de dados, modelagem, machine learning e visualização</li> -->
 </ul>
 
 <hr>
 
-<p>Confira o meu <a href="https://sites.google.com/view/iurialbuquerque/" target="_blank">Portfólio de Dashboards no Power BI</a></p>
+<p>Check out my <a href="https://sites.google.com/view/iurialbuquerque/" target="_blank">Power BI Dashboard Portfolio</a></p>
 
 <hr>
 
-<h3>Algumas tecnologias que utilizo no meu dia a dia:</h3>
+<h3>Technologies I work with:</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
