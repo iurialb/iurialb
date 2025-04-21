@@ -11,12 +11,11 @@
     <!-- <li>💻 Experiência em análise de dados, modelagem, machine learning e visualização</li> -->
 </ul>
 
+
+<!--<p>Check out my <a href="https://sites.google.com/view/iurialbuquerque/" target="_blank">Power BI Dashboard Portfolio</a></p> -->
+
+
 <hr>
-
-<p>Check out my <a href="https://sites.google.com/view/iurialbuquerque/" target="_blank">Power BI Dashboard Portfolio</a></p>
-
-<hr>
-
 <h3>Technologies I work with:</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
