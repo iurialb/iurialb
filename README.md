@@ -16,7 +16,7 @@
 
 
 <hr>
-<h3>Technologies I work with:</h3>
+<h3>Technologies I work with</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
