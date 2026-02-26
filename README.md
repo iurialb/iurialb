@@ -5,7 +5,7 @@
 <hr>
 
 <ul>
-    <li>💻 Data Analysis & Engineering</li>
+    <li>💻 Data Engineering & Analysis</li>
     <li>🎓 Bachelor's in Business Administration & Economics</li>
     <li>📚 Postgraduate in Data Science & Analytics</li>
     <li> Skilled in data analysis, data modeling, data engineering, and data visualization</li>
